@@ -1,0 +1,164 @@
+,result__problem__contestId,result__problem__name,result__problem__rating,result__problem__tags__001,result__problem__tags__002,result__author__members__handle,result__author__participantType,result__verdict
+0,630,Indivisibility,1500.0,math,number theory,Mayur9agt,PRACTICE,OK
+1,154,Colliders,1600.0,math,number theory,Mayur9agt,PRACTICE,OK
+2,75,Modified GCD,1600.0,binary search,number theory,Mayur9agt,PRACTICE,OK
+3,380,Sereja and Brackets,2000.0,data structures,schedules,Mayur9agt,PRACTICE,OK
+4,339,Xenia and Bit Operations,1700.0,data structures,trees,Mayur9agt,PRACTICE,OK
+5,495,Modular Equations,1600.0,math,number theory,Mayur9agt,PRACTICE,OK
+6,1349,Orac and LCM,1600.0,data structures,math,Mayur9agt,PRACTICE,OK
+7,546,Soldier and Number Game,1700.0,constructive algorithms,dp,Mayur9agt,PRACTICE,OK
+8,582,GCD Table,1700.0,constructive algorithms,greedy,Mayur9agt,PRACTICE,OK
+9,111,Petya and Divisors,1900.0,binary search,data structures,Mayur9agt,PRACTICE,OK
+10,1691,Max GEQ Sum,1800.0,binary search,constructive algorithms,Mayur9agt,PRACTICE,OK
+11,1622,Set or Decrease,1600.0,binary search,brute force,Mayur9agt,PRACTICE,OK
+12,1165,Almost All Divisors,1600.0,math,number theory,Mayur9agt,PRACTICE,OK
+13,1561,Deep Down Below,1300.0,binary search,greedy,Mayur9agt,PRACTICE,OK
+14,1061,Multiplicity,1700.0,data structures,dp,Mayur9agt,PRACTICE,OK
+15,1305,Kuroni and Impossible Calculation,1600.0,brute force,combinatorics,Mayur9agt,PRACTICE,OK
+16,1612,X-Magic Pair,1600.0,math,number theory,Mayur9agt,PRACTICE,OK
+17,1688,Manipulating History,1700.0,constructive algorithms,greedy,Mayur9agt,CONTESTANT,OK
+18,1688,The Enchanted Forest,1600.0,greedy,implementation,Mayur9agt,CONTESTANT,OK
+19,71,Round Table Knights,1600.0,dp,math,Mayur9agt,PRACTICE,WRONG_ANSWER
+20,1228,Primes and Multiplication,1700.0,math,number theory,Mayur9agt,PRACTICE,OK
+21,1537,Deleting Divisors,1700.0,games,math,Mayur9agt,PRACTICE,OK
+22,576,Vasya and Petya's Game,1500.0,math,number theory,Mayur9agt,PRACTICE,OK
+23,1691,Sum of Substrings,1400.0,brute force,constructive algorithms,Mayur9agt,CONTESTANT,OK
+24,1459,Row GCD,1600.0,math,number theory,Mayur9agt,PRACTICE,OK
+25,1117,Magic Ship,1900.0,binary search,,Mayur9agt,PRACTICE,OK
+26,1010,Rocket,1800.0,binary search,interactive,Mayur9agt,PRACTICE,WRONG_ANSWER
+27,1010,Mars rover,2000.0,dfs and similar,graphs,Mayur9agt,PRACTICE,RUNTIME_ERROR
+28,1407,Chocolate Bunny,1600.0,constructive algorithms,interactive,Mayur9agt,PRACTICE,OK
+29,954,Water Taps,2000.0,binary search,greedy,Mayur9agt,PRACTICE,OK
+30,1486,Guessing the Greatest (easy version),1600.0,binary search,interactive,Mayur9agt,PRACTICE,OK
+31,847,Preparing for Merge Sort,1600.0,binary search,data structures,Mayur9agt,PRACTICE,OK
+32,782,The Meeting Place Cannot Be Changed,1600.0,binary search,ternary search,Mayur9agt,PRACTICE,OK
+33,1520,Guess the K-th Zero (Easy version),1600.0,binary search,interactive,Mayur9agt,PRACTICE,OK
+34,1583,Omkar and the Meaning of Life,1800.0,constructive algorithms,greedy,Mayur9agt,PRACTICE,OK
+35,1682,Circular Spanning Tree,2000.0,constructive algorithms,implementation,Mayur9agt,PRACTICE,OK
+36,1681,Required Length,1700.0,brute force,dfs and similar,Mayur9agt,PRACTICE,OK
+37,1427,Chess Cheater,1400.0,greedy,implementation,Mayur9agt,PRACTICE,OK
+38,702,Powers of Two,1500.0,brute force,data structures,Mayur9agt,PRACTICE,OK
+39,702,Cellular Network,1500.0,binary search,implementation,Mayur9agt,PRACTICE,OK
+40,1462,Add to Neighbour and Remove,1400.0,greedy,math,Mayur9agt,PRACTICE,OK
+41,1461,Random Events,1500.0,dp,math,Mayur9agt,PRACTICE,OK
+42,1682,LIS or Reverse LIS?,1400.0,constructive algorithms,greedy,Mayur9agt,CONTESTANT,OK
+43,279,Books,1400.0,binary search,brute force,Mayur9agt,PRACTICE,OK
+44,1684,Column Swapping,1400.0,brute force,constructive algorithms,Mayur9agt,PRACTICE,OK
+45,1183,Candy Box (easy version),1400.0,greedy,sortings,Mayur9agt,PRACTICE,OK
+46,1679,Rooks Defenders,1400.0,data structures,implementation,Mayur9agt,CONTESTANT,OK
+47,515,Drazil and Factorial,1400.0,greedy,math,Mayur9agt,PRACTICE,OK
+48,1680,Binary String,1600.0,binary search,greedy,Mayur9agt,CONTESTANT,OK
+49,1678,Tokitsukaze and Good 01-String (hard version),1800.0,dp,greedy,Mayur9agt,PRACTICE,OK
+50,1678,Tokitsukaze and Meeting,1700.0,dp,implementation,Mayur9agt,PRACTICE,OK
+51,1678,Tokitsukaze and Strange Inequality,1600.0,brute force,data structures,Mayur9agt,CONTESTANT,OK
+52,1670,Where is the Pizza?,1400.0,data structures,dfs and similar,Mayur9agt,PRACTICE,WRONG_ANSWER
+53,1670,Very Suspicious,1700.0,binary search,brute force,Mayur9agt,CONTESTANT,OK
+54,1673,Lost Arithmetic Progression,1900.0,combinatorics,math,Mayur9agt,PRACTICE,OK
+55,1673,Palindrome Basis,1500.0,brute force,dp,Mayur9agt,CONTESTANT,OK
+56,1671,Insert a Progression,1600.0,brute force,constructive algorithms,Mayur9agt,CONTESTANT,OK
+57,1669,Maximal AND,1300.0,bitmasks,greedy,Mayur9agt,OUT_OF_COMPETITION,OK
+58,1659,Bit Flipping,1300.0,bitmasks,constructive algorithms,Mayur9agt,CONTESTANT,OK
+59,1132,Stressful Training,2300.0,binary search,greedy,Mayur9agt,PRACTICE,OK
+60,1661,Water the Trees,1700.0,binary search,greedy,Mayur9agt,PRACTICE,WRONG_ANSWER
+61,1661,Getting Zero,1300.0,bitmasks,brute force,Mayur9agt,CONTESTANT,OK
+62,1665,Tree Infection,1600.0,binary search,greedy,Mayur9agt,CONTESTANT,OK
+63,1658,388535 (Hard Version),2300.0,bitmasks,brute force,Mayur9agt,CONTESTANT,WRONG_ANSWER
+64,1658,388535 (Easy Version),1600.0,bitmasks,math,Mayur9agt,CONTESTANT,OK
+65,1658,Shinju and the Lost Permutation,1700.0,constructive algorithms,math,Mayur9agt,CONTESTANT,OK
+66,1656,K-good,1900.0,constructive algorithms,math,Mayur9agt,CONTESTANT,WRONG_ANSWER
+67,1657,For Gamers. By Gamers.,2000.0,binary search,brute force,Mayur9agt,PRACTICE,WRONG_ANSWER
+68,1654,Alice and the Cake,1400.0,data structures,greedy,Mayur9agt,CONTESTANT,OK
+69,214,Hometask,1600.0,brute force,constructive algorithms,Mayur9agt,PRACTICE,OK
+70,1647,Madoka and the Best School in Russia,1900.0,constructive algorithms,dp,Mayur9agt,CONTESTANT,OK
+71,1647,Madoka and Childish Pranks,1300.0,constructive algorithms,greedy,Mayur9agt,CONTESTANT,OK
+72,1649,Weird Sum,1400.0,brute force,implementation,Mayur9agt,CONTESTANT,OK
+73,1649,Game of Ball Passing,1300.0,greedy,implementation,Mayur9agt,CONTESTANT,OK
+74,1646,Weight the Tree,2000.0,constructive algorithms,dfs and similar,Mayur9agt,CONTESTANT,WRONG_ANSWER
+75,1646,Factorials and Powers of Two,1500.0,bitmasks,brute force,Mayur9agt,CONTESTANT,OK
+76,1644,Cross Coloring,1700.0,data structures,implementation,Mayur9agt,CONTESTANT,WRONG_ANSWER
+77,1644,Increase Subarray Sums,1400.0,brute force,dp,Mayur9agt,CONTESTANT,OK
+78,1638,Inversion Graph,1300.0,data structures,dsu,Mayur9agt,CONTESTANT,OK
+79,1637,Best Pair,2100.0,binary search,brute force,Mayur9agt,CONTESTANT,TIME_LIMIT_EXCEEDED
+80,1637,Yet Another Minimization Problem,1800.0,dp,greedy,Mayur9agt,CONTESTANT,OK
+81,1633,Make Them Equal,1600.0,dp,greedy,Mayur9agt,CONTESTANT,WRONG_ANSWER
+82,1631,And Matching,1500.0,bitmasks,constructive algorithms,Mayur9agt,CONTESTANT,OK
+83,1629,Meximum Array,1400.0,constructive algorithms,data structures,Mayur9agt,CONTESTANT,OK
+84,1626,Monsters And Spells,1700.0,binary search,data structures,Mayur9agt,CONTESTANT,OK
+85,1627,Not Assigning,1400.0,constructive algorithms,dfs and similar,Mayur9agt,CONTESTANT,OK
+86,1627,Not Sitting,1300.0,games,greedy,Mayur9agt,CONTESTANT,OK
+87,1625,Road Optimization,1700.0,dp,,Mayur9agt,CONTESTANT,WRONG_ANSWER
+88,1624,MinOr Tree,1900.0,bitmasks,dfs and similar,Mayur9agt,PRACTICE,OK
+89,1624,Interacdive Problem,2000.0,binary search,constructive algorithms,Mayur9agt,CONTESTANT,OK
+90,1624,Palindromes Coloring,1400.0,binary search,greedy,Mayur9agt,CONTESTANT,OK
+91,1621,Hidden Permutations,1700.0,dfs and similar,interactive,Mayur9agt,CONTESTANT,OK
+92,1621,Integers Shop,1500.0,data structures,greedy,Mayur9agt,CONTESTANT,OK
+93,1616,Representative Edges,1500.0,brute force,geometry,Mayur9agt,PRACTICE,OK
+94,1623,Balanced Stone Heaps,1600.0,binary search,greedy,Mayur9agt,PRACTICE,OK
+95,1615,Menorah,1600.0,brute force,graphs,Mayur9agt,CONTESTANT,OK
+96,1615,And It's Non-Zero,1300.0,bitmasks,greedy,Mayur9agt,CONTESTANT,OK
+97,1617,Too Many Impostors (hard version),2400.0,constructive algorithms,implementation,Mayur9agt,CONTESTANT,WRONG_ANSWER
+98,1617,Too Many Impostors (easy version),1800.0,constructive algorithms,implementation,Mayur9agt,CONTESTANT,OK
+99,1617,Paprika and Permutation,1300.0,binary search,greedy,Mayur9agt,CONTESTANT,OK
+100,1618,Reverse,2000.0,bitmasks,constructive algorithms,Mayur9agt,PRACTICE,OK
+101,1618,Array and Operations,1300.0,dp,greedy,Mayur9agt,OUT_OF_COMPETITION,SKIPPED
+102,1591,Minimize Distance,1300.0,greedy,math,Mayur9agt,CONTESTANT,OK
+103,1608,Game Master,1700.0,data structures,dfs and similar,Mayur9agt,PRACTICE,OK
+104,1249,Good Numbers (hard version),1500.0,binary search,greedy,Mayur9agt,PRACTICE,OK
+105,1249,Good Numbers (easy version),1300.0,brute force,greedy,Mayur9agt,PRACTICE,OK
+106,1613,Crazy Robot,2000.0,dfs and similar,graphs,Mayur9agt,PRACTICE,TIME_LIMIT_EXCEEDED
+107,1609,Social Network,1600.0,dsu,graphs,Mayur9agt,PRACTICE,OK
+108,1609,Complex Market Analysis,1400.0,binary search,dp,Mayur9agt,CONTESTANT,OK
+109,1614,Divan and bitwise operations,1500.0,bitmasks,combinatorics,Mayur9agt,PRACTICE,OK
+110,1611,Escape The Maze (easy version),1700.0,dfs and similar,greedy,Mayur9agt,CONTESTANT,OK
+111,1611,Weights Assignment For Tree Edges,1500.0,constructive algorithms,trees,Mayur9agt,CONTESTANT,OK
+112,1612,Chat Ban,1300.0,binary search,math,Mayur9agt,CONTESTANT,OK
+113,118,Bertown roads,2000.0,dfs and similar,graphs,Mayur9agt,PRACTICE,OK
+114,1604,Di-visible Confusion,1300.0,brute force,greedy,Mayur9agt,PRACTICE,OK
+115,1589,Guess the Permutation,2000.0,binary search,combinatorics,Mayur9agt,PRACTICE,OK
+116,1605,Dominant Character,1400.0,brute force,greedy,Mayur9agt,CONTESTANT,OK
+117,25,Roads not only in Berland,1900.0,dsu,graphs,Mayur9agt,PRACTICE,OK
+118,1285,Fadi and LCM,1400.0,brute force,math,Mayur9agt,PRACTICE,OK
+119,20,Dijkstra?,1900.0,graphs,shortest paths,Mayur9agt,PRACTICE,OK
+120,476,Dreamoon and WiFi,1300.0,bitmasks,brute force,Mayur9agt,PRACTICE,OK
+121,1604,Moderate Modular Mode,1600.0,math,number theory,Mayur9agt,CONTESTANT,OK
+122,1606,Banknotes,1400.0,greedy,number theory,Mayur9agt,CONTESTANT,OK
+123,1602,Frog Traveler,1900.0,data structures,dp,Mayur9agt,CONTESTANT,WRONG_ANSWER
+124,1602,Array Elimination,1300.0,bitmasks,math,Mayur9agt,CONTESTANT,OK
+125,1582,"Vupsen, Pupsen and 0",1600.0,constructive algorithms,math,Mayur9agt,PRACTICE,OK
+126,1598,Training Session,1700.0,combinatorics,data structures,Mayur9agt,PRACTICE,OK
+127,1594,Rubik's Cube Coloring (easy version),1300.0,combinatorics,math,Mayur9agt,CONTESTANT,OK
+128,1364,Most socially-distanced subsequence,1300.0,greedy,two pointers,Mayur9agt,PRACTICE,OK
+129,1579,Productive Meeting,1400.0,constructive algorithms,graphs,Mayur9agt,CONTESTANT,OK
+130,1579,Ticks,1500.0,greedy,implementation,Mayur9agt,CONTESTANT,OK
+131,1574,The Strongest Build,2000.0,binary search,brute force,Mayur9agt,PRACTICE,OK
+132,1574,Slay the Dragon,1300.0,binary search,greedy,Mayur9agt,CONTESTANT,OK
+133,1573,Swaps,1400.0,greedy,math,Mayur9agt,CONTESTANT,WRONG_ANSWER
+134,1569,Jury Meeting,1500.0,combinatorics,math,Mayur9agt,PRACTICE,OK
+135,1567,Carrying Conundrum,1600.0,bitmasks,combinatorics,Mayur9agt,CONTESTANT,OK
+136,1556,Take a Guess,1800.0,bitmasks,constructive algorithms,Mayur9agt,PRACTICE,OK
+137,1556,Take Your Places!,1300.0,implementation,,Mayur9agt,CONTESTANT,OK
+138,1562,Rings,1500.0,constructive algorithms,math,Mayur9agt,CONTESTANT,OK
+139,1560,Make a Power of Two,1300.0,greedy,math,Mayur9agt,PRACTICE,WRONG_ANSWER
+140,1560,Nearest Beautiful Number (easy version),1900.0,binary search,bitmasks,Mayur9agt,PRACTICE,WRONG_ANSWER
+141,1538,Number of Pairs,1300.0,binary search,data structures,Mayur9agt,PRACTICE,OK
+142,1557,Moamen and XOR,1700.0,bitmasks,combinatorics,Mayur9agt,PRACTICE,OK
+143,1555,Say No to Palindromes,1600.0,brute force,constructive algorithms,Mayur9agt,PRACTICE,OK
+144,1555,Coin Rows,1300.0,brute force,constructive algorithms,Mayur9agt,CONTESTANT,OK
+145,1555,Two Tables,1300.0,brute force,,Mayur9agt,CONTESTANT,OK
+146,1554,Diane,1800.0,constructive algorithms,greedy,Mayur9agt,PRACTICE,OK
+147,1554,Mikasa,1800.0,binary search,bitmasks,Mayur9agt,PRACTICE,OK
+148,1554,Cobb,1700.0,bitmasks,brute force,Mayur9agt,PRACTICE,OK
+149,1552,Running for Gold,1500.0,combinatorics,graphs,Mayur9agt,PRACTICE,OK
+150,1551,Domino (hard version),2100.0,constructive algorithms,implementation,Mayur9agt,PRACTICE,OK
+151,1551,Domino (easy version),1700.0,constructive algorithms,math,Mayur9agt,PRACTICE,OK
+152,1551,Interesting Story,1500.0,greedy,sortings,Mayur9agt,CONTESTANT,OK
+153,1551,Wonderful Coloring - 2,1400.0,binary search,constructive algorithms,Mayur9agt,CONTESTANT,OK
+154,1553,Backspace,1500.0,dp,greedy,Mayur9agt,PRACTICE,OK
+155,1553,Reverse String,1300.0,brute force,dp,Mayur9agt,CONTESTANT,OK
+156,455,Boredom,1500.0,dp,,Mayur9agt,PRACTICE,WRONG_ANSWER
+157,401,Team,1400.0,constructive algorithms,greedy,Mayur9agt,PRACTICE,OK
+158,1187,Letters Shop,1300.0,binary search,implementation,Mayur9agt,PRACTICE,OK
+159,1187,Vasya And Array,1800.0,constructive algorithms,greedy,Mayur9agt,PRACTICE,WRONG_ANSWER
+160,1260,Obtain Two Zeroes,1300.0,binary search,math,Mayur9agt,PRACTICE,OK
+161,479,Exams,1400.0,greedy,sortings,Mayur9agt,PRACTICE,OK
+162,922,Magic Forest,1300.0,brute force,,Mayur9agt,PRACTICE,OK

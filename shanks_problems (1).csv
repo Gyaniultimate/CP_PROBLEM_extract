@@ -1,0 +1,313 @@
+,result__problem__contestId,result__problem__name,result__problem__rating,result__problem__tags__001,result__problem__tags__002,result__problem__tags__009,result__author__members__handle,result__author__participantType,result__verdict
+0,1691,Max GEQ Sum,1800,binary search,constructive algorithms,,cooler_killer,CONTESTANT,OK
+1,1691,Sum of Substrings,1400,brute force,constructive algorithms,,cooler_killer,CONTESTANT,OK
+2,1681,Required Length,1700,brute force,dfs and similar,,cooler_killer,PRACTICE,OK
+3,1684,Traps,1700,constructive algorithms,greedy,,cooler_killer,PRACTICE,OK
+4,1684,Column Swapping,1400,brute force,constructive algorithms,,cooler_killer,CONTESTANT,OK
+5,1678,Tokitsukaze and Meeting,1700,dp,implementation,,cooler_killer,PRACTICE,OK
+6,1678,Tokitsukaze and Strange Inequality,1600,brute force,data structures,,cooler_killer,PRACTICE,OK
+7,1670,Very Suspicious,1700,binary search,brute force,,cooler_killer,PRACTICE,OK
+8,1670,Where is the Pizza?,1400,data structures,dfs and similar,,cooler_killer,VIRTUAL,OK
+9,1661,Water the Trees,1700,binary search,greedy,,cooler_killer,PRACTICE,OK
+10,1665,Tree Infection,1600,binary search,greedy,,cooler_killer,PRACTICE,OK
+11,1660,Maximum Product Strikes Back,1600,brute force,implementation,,cooler_killer,PRACTICE,OK
+12,1658,Shinju and the Lost Permutation,1700,constructive algorithms,math,,cooler_killer,PRACTICE,OK
+13,1658,388535 (Hard Version),2300,bitmasks,brute force,,cooler_killer,CONTESTANT,WRONG_ANSWER
+14,1658,388535 (Easy Version),1600,bitmasks,math,,cooler_killer,CONTESTANT,OK
+15,1656,K-good,1900,constructive algorithms,math,,cooler_killer,PRACTICE,OK
+16,1657,For Gamers. By Gamers.,2000,binary search,brute force,,cooler_killer,PRACTICE,OK
+17,1649,Game of Ball Passing,1300,greedy,implementation,,cooler_killer,PRACTICE,OK
+18,1646,Factorials and Powers of Two,1500,bitmasks,brute force,,cooler_killer,CONTESTANT,OK
+19,1635,Infinite Set,1800,bitmasks,dp,,cooler_killer,CONTESTANT,OK
+20,1638,Big Brush,2000,constructive algorithms,data structures,,cooler_killer,CONTESTANT,WRONG_ANSWER
+21,1638,Inversion Graph,1300,data structures,dsu,,cooler_killer,CONTESTANT,OK
+22,1634,Fortune Telling,1400,bitmasks,math,,cooler_killer,CONTESTANT,OK
+23,1633,Make Them Equal,1600,dp,greedy,,cooler_killer,PRACTICE,OK
+24,1632,Strange Test,1600,binary search,bitmasks,,cooler_killer,CONTESTANT,OK
+25,1631,And Matching,1500,bitmasks,constructive algorithms,,cooler_killer,PRACTICE,OK
+26,1629,Peculiar Movie Preferences,1700,greedy,strings,,cooler_killer,CONTESTANT,OK
+27,1629,Meximum Array,1400,constructive algorithms,data structures,,cooler_killer,CONTESTANT,OK
+28,1626,Martial Arts Tournament,2100,binary search,brute force,,cooler_killer,PRACTICE,OK
+29,666,Reberland Linguistics,1800,dp,implementation,,cooler_killer,PRACTICE,OK
+30,1627,Not Assigning,1400,constructive algorithms,dfs and similar,,cooler_killer,CONTESTANT,OK
+31,1627,Not Sitting,1300,games,greedy,,cooler_killer,CONTESTANT,OK
+32,954,Matrix Walk,1700,implementation,,,cooler_killer,PRACTICE,OK
+33,1625,Road Optimization,1700,dp,,,cooler_killer,CONTESTANT,WRONG_ANSWER
+34,1042,Array Product,1700,constructive algorithms,greedy,,cooler_killer,PRACTICE,OK
+35,1624,Masha-forgetful,2000,brute force,constructive algorithms,,cooler_killer,PRACTICE,OK
+36,1616,Representative Edges,1500,brute force,geometry,,cooler_killer,CONTESTANT,OK
+37,1622,Set or Decrease,1600,binary search,brute force,,cooler_killer,PRACTICE,OK
+38,1076,Edge Deletion,1800,graphs,greedy,,cooler_killer,PRACTICE,OK
+39,1615,And It's Non-Zero,1300,bitmasks,greedy,,cooler_killer,CONTESTANT,OK
+40,1615,Menorah,1600,brute force,graphs,,cooler_killer,CONTESTANT,OK
+41,1335,Three Blocks Palindrome (hard version),1800,brute force,data structures,,cooler_killer,PRACTICE,MEMORY_LIMIT_EXCEEDED
+42,1335,Three Blocks Palindrome (easy version),1700,binary search,brute force,,cooler_killer,PRACTICE,OK
+43,1620,Replace the Numbers,1900,constructive algorithms,data structures,,cooler_killer,PRACTICE,OK
+44,900,Remove Extra One,1700,brute force,data structures,,cooler_killer,PRACTICE,OK
+45,1617,Paprika and Permutation,1300,binary search,greedy,,cooler_killer,CONTESTANT,OK
+46,827,String Reconstruction,1700,data structures,greedy,,cooler_killer,PRACTICE,OK
+47,567,Geometric Progression,1700,binary search,data structures,,cooler_killer,PRACTICE,OK
+48,1591,Yet Another Sorting Problem,1900,constructive algorithms,data structures,,cooler_killer,PRACTICE,OK
+49,1591,Minimize Distance,1300,greedy,math,,cooler_killer,CONTESTANT,OK
+50,1608,Game Master,1700,data structures,dfs and similar,,cooler_killer,PRACTICE,OK
+51,735,Taxes,1600,math,number theory,,cooler_killer,PRACTICE,OK
+52,1096,Polygon for the Angle,1600,brute force,geometry,,cooler_killer,VIRTUAL,WRONG_ANSWER
+53,1096,Substring Removal,1300,combinatorics,math,,cooler_killer,VIRTUAL,OK
+54,1107,Brutality,1300,greedy,sortings,,cooler_killer,VIRTUAL,OK
+55,1155,Beautiful Array,1900,brute force,data structures,,cooler_killer,VIRTUAL,WRONG_ANSWER
+56,1155,Alarm Clocks Everywhere,1300,math,number theory,,cooler_killer,VIRTUAL,OK
+57,1132,Painting the Fence,1700,brute force,,,cooler_killer,VIRTUAL,OK
+58,652,Foe Pairs,1800,combinatorics,sortings,,cooler_killer,PRACTICE,OK
+59,652,Gabriel and Caterpillar,1400,implementation,math,,cooler_killer,VIRTUAL,OK
+60,1614,Divan and bitwise operations,1500,bitmasks,combinatorics,,cooler_killer,PRACTICE,OK
+61,1607,Blue-Red Permutation,1300,greedy,math,,cooler_killer,PRACTICE,OK
+62,1606,Banknotes,1400,greedy,number theory,,cooler_killer,CONTESTANT,OK
+63,1582,Korney Korneevich and XOR (easy version),1800,bitmasks,dp,,cooler_killer,PRACTICE,TIME_LIMIT_EXCEEDED
+64,1582,"Vupsen, Pupsen and 0",1600,constructive algorithms,math,,cooler_killer,PRACTICE,OK
+65,1593,Half of Same,1900,brute force,math,,cooler_killer,PRACTICE,TIME_LIMIT_EXCEEDED
+66,1593,Gardener and Tree,1600,brute force,data structures,,cooler_killer,CONTESTANT,OK
+67,1594,Rubik's Cube Coloring (easy version),1300,combinatorics,math,,cooler_killer,CONTESTANT,OK
+68,1592,Bakry and Partitioning,1700,bitmasks,constructive algorithms,,cooler_killer,PRACTICE,OK
+69,1560,Polycarp and String Transformation,1800,binary search,implementation,,cooler_killer,PRACTICE,OK
+70,1557,Moamen and XOR,1700,bitmasks,combinatorics,,cooler_killer,PRACTICE,OK
+71,1555,Say No to Palindromes,1600,brute force,constructive algorithms,,cooler_killer,PRACTICE,OK
+72,1555,Coin Rows,1300,brute force,constructive algorithms,,cooler_killer,CONTESTANT,OK
+73,1555,Two Tables,1300,brute force,,,cooler_killer,CONTESTANT,OK
+74,1554,Mikasa,1800,binary search,bitmasks,,cooler_killer,PRACTICE,OK
+75,1552,Array Differentiation,1800,bitmasks,brute force,,cooler_killer,PRACTICE,OK
+76,1552,Running for Gold,1500,combinatorics,graphs,,cooler_killer,PRACTICE,OK
+77,1551,Domino (easy version),1700,constructive algorithms,math,,cooler_killer,PRACTICE,OK
+78,1551,Interesting Story,1500,greedy,sortings,,cooler_killer,CONTESTANT,OK
+79,1551,Wonderful Coloring - 2,1400,binary search,constructive algorithms,,cooler_killer,CONTESTANT,OK
+80,1553,Reverse String,1300,brute force,dp,,cooler_killer,PRACTICE,OK
+81,1553,Backspace,1500,dp,greedy,,cooler_killer,PRACTICE,OK
+82,1550,Manhattan Subarrays,1700,brute force,geometry,,cooler_killer,PRACTICE,OK
+83,1546,AquaMoon and Strange Sort,1500,sortings,,,cooler_killer,PRACTICE,OK
+84,1547,Air Conditioners,1500,data structures,dp,,cooler_killer,CONTESTANT,OK
+85,1547,Co-growing Sequence,1300,bitmasks,constructive algorithms,,cooler_killer,CONTESTANT,OK
+86,1092,Prefixes and Suffixes,1700,strings,,,cooler_killer,PRACTICE,OK
+87,923,Primal Sport,1700,math,number theory,,cooler_killer,PRACTICE,OK
+88,1153,Serval and Parenthesis Sequence,1700,greedy,strings,,cooler_killer,PRACTICE,OK
+89,1537,Erase and Extend (Hard Version),2200,binary search,data structures,,cooler_killer,PRACTICE,OK
+90,1537,Erase and Extend (Easy Version),1600,binary search,brute force,two pointers,cooler_killer,PRACTICE,OK
+91,1537,Deleting Divisors,1700,games,math,,cooler_killer,PRACTICE,OK
+92,1534,Little Alawn's Puzzle,1300,combinatorics,dp,,cooler_killer,PRACTICE,OK
+93,1468,Firecrackers,1700,binary search,sortings,,cooler_killer,PRACTICE,OK
+94,660,Hard Process,1600,binary search,dp,,cooler_killer,PRACTICE,OK
+95,1538,Gift Set,2100,binary search,greedy,,cooler_killer,PRACTICE,OK
+96,1538,Number of Pairs,1300,binary search,data structures,,cooler_killer,PRACTICE,OK
+97,1538,Another Problem About Dividing Numbers,1700,constructive algorithms,math,,cooler_killer,PRACTICE,OK
+98,1538,Interesting Function,1500,binary search,dp,,cooler_killer,PRACTICE,OK
+99,1422,Bargain,1700,combinatorics,dp,,cooler_killer,PRACTICE,OK
+100,1098,Sum in the tree,1600,constructive algorithms,dfs and similar,,cooler_killer,PRACTICE,OK
+101,1033,Permutation Game,1600,brute force,dp,,cooler_killer,PRACTICE,OK
+102,1525,Armchairs,1800,dp,flows,,cooler_killer,PRACTICE,OK
+103,1514,Product 1 Modulo N,1600,greedy,number theory,,cooler_killer,PRACTICE,OK
+104,1526,I Hate 1111,1400,dp,math,,cooler_killer,PRACTICE,OK
+105,474,Flowers,1700,dp,,,cooler_killer,PRACTICE,OK
+106,1521,Nastia and a Good Array,1300,constructive algorithms,math,,cooler_killer,CONTESTANT,OK
+107,1520,Arranging The Sheep,1400,greedy,math,,cooler_killer,CONTESTANT,OK
+108,1515,Phoenix and Socks,1500,greedy,sortings,,cooler_killer,PRACTICE,WRONG_ANSWER
+109,1515,Phoenix and Towers,1400,constructive algorithms,data structures,,cooler_killer,CONTESTANT,WRONG_ANSWER
+110,1519,Maximum Sum of Products,1600,brute force,dp,,cooler_killer,PRACTICE,TIME_LIMIT_EXCEEDED
+111,1519,Berland Regional,1400,brute force,data structures,,cooler_killer,CONTESTANT,CHALLENGED
+112,1511,Min Cost String,1600,brute force,constructive algorithms,,cooler_killer,PRACTICE,OK
+113,1513,AND Sequences,1400,bitmasks,combinatorics,,cooler_killer,PRACTICE,OK
+114,1512,Permutation by Sum,1600,brute force,greedy,,cooler_killer,PRACTICE,OK
+115,1498,Planar Reflections,1600,brute force,data structures,,cooler_killer,PRACTICE,OK
+116,1498,Box Fitting,1300,binary search,bitmasks,,cooler_killer,CONTESTANT,OK
+117,1506,Restoring the Permutation,1500,constructive algorithms,implementation,,cooler_killer,PRACTICE,OK
+118,1506,Epic Transformation,1400,constructive algorithms,data structures,,cooler_killer,PRACTICE,OK
+119,1484,Restore Modulo,1500,implementation,math,,cooler_killer,PRACTICE,OK
+120,1499,Minimum Grid Path,1500,brute force,data structures,,cooler_killer,PRACTICE,OK
+121,1497,Square-free division (easy version),1700,data structures,dp,,cooler_killer,PRACTICE,OK
+122,1497,k-LCM (hard version),1600,constructive algorithms,math,,cooler_killer,CONTESTANT,OK
+123,1474,Array Destruction,1700,brute force,constructive algorithms,,cooler_killer,PRACTICE,OK
+124,1493,Planet Lapituletti,1300,brute force,implementation,,cooler_killer,PRACTICE,OK
+125,1494,1D Sokoban,1900,binary search,dp,,cooler_killer,PRACTICE,OK
+126,1494,Berland Crossword,1400,bitmasks,brute force,,cooler_killer,CONTESTANT,OK
+127,1478,Nezzar and Symmetric Array,1700,implementation,math,,cooler_killer,PRACTICE,OK
+128,1491,Pekora and Trampoline,1700,brute force,data structures,,cooler_killer,PRACTICE,OK
+129,1492,Maximum width,1500,binary search,data structures,,cooler_killer,PRACTICE,OK
+130,1036,Vasya and Arrays,1600,greedy,two pointers,,cooler_killer,PRACTICE,OK
+131,1473,Program,1700,data structures,dp,,cooler_killer,PRACTICE,OK
+132,1476,Journey,1700,dfs and similar,dp,,cooler_killer,PRACTICE,OK
+133,1486,Guessing the Greatest (hard version),1900,binary search,interactive,,cooler_killer,PRACTICE,OK
+134,1486,Guessing the Greatest (easy version),1600,binary search,interactive,,cooler_killer,PRACTICE,OK
+135,1486,Eastern Exhibition,1500,binary search,geometry,,cooler_killer,PRACTICE,OK
+136,1473,No More Inversions,1500,constructive algorithms,math,,cooler_killer,PRACTICE,OK
+137,1490,Old Floppy Drive ,1900,binary search,data structures,,cooler_killer,PRACTICE,OK
+138,1490,Equalize the Array,1500,binary search,data structures,,cooler_killer,PRACTICE,OK
+139,1490,Accidental Victory,1400,binary search,data structures,,cooler_killer,PRACTICE,OK
+140,1487,Pythagorean Triples,1500,binary search,brute force,,cooler_killer,PRACTICE,OK
+141,1487,Minimum Ties,1500,brute force,constructive algorithms,,cooler_killer,PRACTICE,OK
+142,1278,Berry Jam,1700,data structures,dp,,cooler_killer,PRACTICE,OK
+143,1185,Exam in BerSU (hard version),1700,brute force,data structures,,cooler_killer,PRACTICE,OK
+144,1051,Vasya and Multisets,1500,brute force,dp,,cooler_killer,PRACTICE,OK
+145,1485,Floor and Mod,1700,binary search,brute force,,cooler_killer,PRACTICE,OK
+146,739,Alyona and mex,1700,constructive algorithms,greedy,,cooler_killer,PRACTICE,OK
+147,910,Door Frames,1600,greedy,implementation,,cooler_killer,PRACTICE,OK
+148,1479,Searching Local Minimum,1700,binary search,interactive,,cooler_killer,PRACTICE,OK
+149,525,Ilya and Sticks,1600,greedy,math,,cooler_killer,PRACTICE,OK
+150,1481,Fence Painting,1600,brute force,constructive algorithms,,cooler_killer,PRACTICE,OK
+151,712,Memory and De-Evolution,1600,greedy,math,,cooler_killer,PRACTICE,OK
+152,864,Bus,1500,greedy,implementation,,cooler_killer,PRACTICE,OK
+153,986,Fair,1600,graphs,greedy,,cooler_killer,PRACTICE,OK
+154,939,Love Rescue,1600,dfs and similar,dsu,,cooler_killer,PRACTICE,OK
+155,954,Fight Against Traffic,1600,dfs and similar,graphs,,cooler_killer,PRACTICE,OK
+156,771,Bear and Friendship Condition,1500,dfs and similar,dsu,,cooler_killer,PRACTICE,OK
+157,1106,Lunar New Year and a Wander,1500,data structures,dfs and similar,,cooler_killer,PRACTICE,OK
+158,1017,The Phone Number,1600,constructive algorithms,greedy,,cooler_killer,PRACTICE,OK
+159,1476,Inflation,1300,binary search,brute force,,cooler_killer,PRACTICE,OK
+160,1102,Array K-Coloring,1400,greedy,sortings,,cooler_killer,PRACTICE,OK
+161,1476,Longest Simple Cycle,1600,dp,graphs,,cooler_killer,PRACTICE,OK
+162,1220,Multiplication Table,1300,math,number theory,,cooler_killer,PRACTICE,OK
+163,1467,Hills And Valleys,1700,brute force,implementation,,cooler_killer,PRACTICE,OK
+164,1043,Smallest Word,1500,constructive algorithms,greedy,,cooler_killer,PRACTICE,OK
+165,1471,Strange Birthday Party,1300,brute force,greedy,,cooler_killer,PRACTICE,OK
+166,1062,Math,1500,greedy,math,,cooler_killer,PRACTICE,OK
+167,1466,Canine poetry,1300,dp,greedy,,cooler_killer,PRACTICE,WRONG_ANSWER
+168,1466,13th Labour of Heracles,1500,data structures,greedy,,cooler_killer,CONTESTANT,OK
+169,1029,Maximal Intersection,1600,greedy,math,,cooler_killer,PRACTICE,OK
+170,1469,Building a Fence,1600,dp,greedy,,cooler_killer,PRACTICE,OK
+171,1110,Meaningless Operations,1500,constructive algorithms,math,,cooler_killer,PRACTICE,OK
+172,1465,Peaceful Rooks,1700,dfs and similar,dsu,,cooler_killer,PRACTICE,OK
+173,1459,Row GCD,1600,math,number theory,,cooler_killer,PRACTICE,OK
+174,1459,Move and Turn,1300,dp,math,,cooler_killer,PRACTICE,OK
+175,1136,Nastya Is Transposing Matrices,1500,constructive algorithms,sortings,,cooler_killer,PRACTICE,OK
+176,1253,Harmonious Graph,1700,constructive algorithms,dfs and similar,,cooler_killer,PRACTICE,OK
+177,1463,Busy Robot,1800,implementation,,,cooler_killer,PRACTICE,OK
+178,1463,Find The Array,1400,bitmasks,constructive algorithms,,cooler_killer,CONTESTANT,OK
+179,1253,Silly Mistake,1400,greedy,implementation,,cooler_killer,PRACTICE,OK
+180,1310,Recommendations,1700,data structures,greedy,,cooler_killer,PRACTICE,OK
+181,1462,Add to Neighbour and Remove,1400,greedy,math,,cooler_killer,PRACTICE,OK
+182,1462,Close Tuples (hard version),1700,binary search,combinatorics,,cooler_killer,PRACTICE,OK
+183,1462,Close Tuples (easy version),1500,binary search,combinatorics,,cooler_killer,PRACTICE,OK
+184,1251,Binary Palindromes,1400,greedy,strings,,cooler_killer,PRACTICE,OK
+185,1368,"AND, OR and square sum",1700,bitmasks,greedy,,cooler_killer,PRACTICE,OK
+186,1245,Constanze's Machine,1400,dp,,,cooler_killer,PRACTICE,OK
+187,1453,Triangles,1700,greedy,implementation,,cooler_killer,PRACTICE,OK
+188,467,George and Job,1700,dp,implementation,,cooler_killer,PRACTICE,OK
+189,1266,Diverse Matrix,1400,constructive algorithms,greedy,,cooler_killer,PRACTICE,OK
+190,1461,Divide and Summarize,1600,binary search,brute force,,cooler_killer,PRACTICE,OK
+191,1461,Random Events,1500,dp,math,,cooler_killer,PRACTICE,OK
+192,1461,Find the Spruce,1400,brute force,dp,,cooler_killer,CONTESTANT,OK
+193,1178,Prime Graph,1500,constructive algorithms,greedy,,cooler_killer,PRACTICE,OK
+194,1263,Everyone is a Winner!,1400,binary search,math,,cooler_killer,PRACTICE,OK
+195,1263,PIN Codes,1400,greedy,implementation,,cooler_killer,PRACTICE,OK
+196,1451,String Equality,1400,dp,greedy,,cooler_killer,PRACTICE,OK
+197,1454,Number into Sequence,1300,constructive algorithms,math,,cooler_killer,PRACTICE,OK
+198,1453,Suffix Operations,1400,constructive algorithms,implementation,,cooler_killer,PRACTICE,OK
+199,1425,Arena of Greed,1400,games,greedy,,cooler_killer,PRACTICE,OK
+200,1201,Maximum Median,1400,binary search,greedy,,cooler_killer,PRACTICE,OK
+201,1362,Johnny and Another Rating Drop,1400,bitmasks,greedy,,cooler_killer,PRACTICE,OK
+202,1457,Bouncing Ball,1400,dp,implementation,,cooler_killer,PRACTICE,OK
+203,1455,Sequence and Swaps,1600,dp,greedy,,cooler_killer,PRACTICE,OK
+204,349,Color the Fence,1700,data structures,dp,,cooler_killer,PRACTICE,OK
+205,1062,Banh-mi,1600,greedy,implementation,,cooler_killer,PRACTICE,OK
+206,1360,Spy-string,1700,bitmasks,brute force,,cooler_killer,PRACTICE,OK
+207,126,Password,1700,binary search,dp,,cooler_killer,PRACTICE,OK
+208,1452,Toy Blocks,1400,binary search,greedy,,cooler_killer,PRACTICE,OK
+209,1359,Mixing Water,1700,binary search,math,,cooler_killer,PRACTICE,OK
+210,466,Number of Ways,1700,binary search,brute force,,cooler_killer,PRACTICE,OK
+211,1109,Sasha and a Bit of Relax,1600,dp,implementation,,cooler_killer,PRACTICE,OK
+212,873,Balanced Substring,1500,dp,implementation,,cooler_killer,PRACTICE,OK
+213,1037,Valid BFS?,1700,dfs and similar,graphs,,cooler_killer,PRACTICE,OK
+214,1440,Binary Table (Easy Version),1500,constructive algorithms,implementation,,cooler_killer,PRACTICE,OK
+215,1041,Coffee Break,1600,binary search,data structures,,cooler_killer,PRACTICE,OK
+216,1438,Powerful Ksenia,2200,bitmasks,constructive algorithms,,cooler_killer,PRACTICE,OK
+217,1325,Ehab the Xorcist,1700,bitmasks,constructive algorithms,,cooler_killer,PRACTICE,OK
+218,1133,Spanning Tree with Maximum Degree,1600,graphs,,,cooler_killer,PRACTICE,OK
+219,1447,Knapsack,1300,constructive algorithms,greedy,,cooler_killer,PRACTICE,OK
+220,1381,Prefix Flip (Hard Version),1700,constructive algorithms,data structures,,cooler_killer,PRACTICE,OK
+221,1438,Engineer Artem,2000,2-sat,chinese remainder theorem,,cooler_killer,PRACTICE,OK
+222,1025,Weakened Common Divisor,1600,brute force,greedy,,cooler_killer,PRACTICE,OK
+223,1343,Constant Palindrome Sum,1700,brute force,data structures,,cooler_killer,PRACTICE,OK
+224,486,Palindrome Transformation,1700,brute force,greedy,,cooler_killer,PRACTICE,OK
+225,1255,League of Leesins,1600,constructive algorithms,implementation,,cooler_killer,PRACTICE,OK
+226,1352,Special Permutation,1600,constructive algorithms,,,cooler_killer,PRACTICE,OK
+227,1265,Beautiful Regional Contest,1500,greedy,implementation,,cooler_killer,VIRTUAL,OK
+228,1265,Beautiful Numbers,1300,data structures,implementation,,cooler_killer,VIRTUAL,OK
+229,1065,Make It Equal,1600,greedy,,,cooler_killer,PRACTICE,OK
+230,1307,Cow and Friend,1300,geometry,greedy,,cooler_killer,PRACTICE,OK
+231,1059,Sequence Transformation,1600,constructive algorithms,math,,cooler_killer,PRACTICE,OK
+232,1006,Military Problem,1600,dfs and similar,graphs,,cooler_killer,PRACTICE,OK
+233,1260,Obtain Two Zeroes,1300,binary search,math,,cooler_killer,PRACTICE,OK
+234,1140,Playlist,1600,brute force,data structures,,cooler_killer,PRACTICE,OK
+235,977,Cyclic Components,1500,dfs and similar,dsu,,cooler_killer,PRACTICE,OK
+236,1284,New Year and Permutation,1600,combinatorics,math,,cooler_killer,PRACTICE,OK
+237,1166,A Tale of Two Lands,1500,binary search,sortings,,cooler_killer,PRACTICE,OK
+238,1223,Save the Nature,1600,binary search,greedy,,cooler_killer,PRACTICE,OK
+239,1443,Saving the City,1300,dp,greedy,,cooler_killer,PRACTICE,WRONG_ANSWER
+240,1443,Extreme Subtraction,1800,dp,greedy,,cooler_killer,PRACTICE,OK
+241,1443,The Delivery Dilemma,1400,binary search,greedy,,cooler_killer,CONTESTANT,OK
+242,1151,Stas and the Queue at the Buffet,1600,greedy,math,,cooler_killer,PRACTICE,OK
+243,1137,Camp Schedule,1600,greedy,hashing,,cooler_killer,PRACTICE,OK
+244,1445,Division,1500,math,number theory,,cooler_killer,PRACTICE,OK
+245,1269,Modulo Equality,1500,brute force,sortings,,cooler_killer,PRACTICE,OK
+246,1167,Bicolored RBS,1500,constructive algorithms,greedy,,cooler_killer,PRACTICE,OK
+247,1133,Zero Quantity Maximization,1500,hashing,math,,cooler_killer,PRACTICE,OK
+248,1209,Koala and Lights,1300,implementation,math,,cooler_killer,PRACTICE,OK
+249,1148,Born This Way,1600,binary search,brute force,,cooler_killer,PRACTICE,OK
+250,1163,Cat Party (Easy Edition),1500,data structures,implementation,,cooler_killer,PRACTICE,OK
+251,1163,Cat Party (Hard Edition),1600,data structures,implementation,,cooler_killer,PRACTICE,OK
+252,1165,Two Arrays and Sum of Functions,1600,greedy,math,,cooler_killer,PRACTICE,OK
+253,1437,Minimal Height Tree,1600,graphs,greedy,,cooler_killer,PRACTICE,OK
+254,1184,Parallel Universes (Easy),1600,implementation,,,cooler_killer,PRACTICE,OK
+255,1437,Chef Monocarp,1800,dp,flows,,cooler_killer,PRACTICE,OK
+256,1165,Almost All Divisors,1600,math,number theory,,cooler_killer,PRACTICE,OK
+257,1175,Catch Overflow!,1600,data structures,expression parsing,,cooler_killer,PRACTICE,OK
+258,1175,Electrification,1600,binary search,brute force,,cooler_killer,PRACTICE,OK
+259,1436,Binary Search,1500,binary search,combinatorics,,cooler_killer,PRACTICE,OK
+260,1198,Welfare State,1600,binary search,brute force,,cooler_killer,PRACTICE,OK
+261,1196,RGB Substring (easy version),1500,implementation,,,cooler_killer,PRACTICE,OK
+262,1196,RGB Substring (hard version),1600,data structures,dp,,cooler_killer,PRACTICE,OK
+263,1198,MP3,1600,sortings,two pointers,,cooler_killer,PRACTICE,OK
+264,1433,Two Round Dances,1300,combinatorics,math,,cooler_killer,PRACTICE,OK
+265,599,Day at the Beach,1600,sortings,,,cooler_killer,PRACTICE,OK
+266,1203,Remove the Substring (hard version),1700,binary search,greedy,,cooler_killer,PRACTICE,OK
+267,1203,Remove the Substring (easy version),1600,greedy,implementation,,cooler_killer,PRACTICE,OK
+268,1213,Equalizing by Division (hard version),1600,brute force,math,,cooler_killer,PRACTICE,WRONG_ANSWER
+269,1213,Equalizing by Division (easy version),1500,brute force,implementation,,cooler_killer,PRACTICE,OK
+270,1421,Palindromifier,1400,constructive algorithms,strings,,cooler_killer,PRACTICE,OK
+271,1186,Vus the Cossack and Numbers,1500,constructive algorithms,greedy,,cooler_killer,PRACTICE,OK
+272,1243,Character Swap (Hard Version),1600,strings,,,cooler_killer,PRACTICE,OK
+273,1252,Even Path,1600,data structures,implementation,,cooler_killer,PRACTICE,OK
+274,1288,Two Arrays,1600,combinatorics,dp,,cooler_killer,PRACTICE,OK
+275,1305,Kuroni and Impossible Calculation,1600,brute force,combinatorics,,cooler_killer,PRACTICE,OK
+276,1209,Paint the Digits,1500,constructive algorithms,greedy,,cooler_killer,PRACTICE,OK
+277,1208,Uniqueness,1500,binary search,brute force,,cooler_killer,PRACTICE,OK
+278,1102,Balanced Ternary String,1500,greedy,strings,,cooler_killer,PRACTICE,OK
+279,1371,Grid-00100,1600,constructive algorithms,greedy,,cooler_killer,PRACTICE,OK
+280,1423,Lonely Numbers,1600,binary search,math,,cooler_killer,PRACTICE,OK
+281,991,Candies,1500,binary search,implementation,,cooler_killer,PRACTICE,OK
+282,1279,Stack of Presents,1400,data structures,implementation,,cooler_killer,VIRTUAL,OK
+283,1279,Verse For Santa,1300,binary search,brute force,,cooler_killer,VIRTUAL,OK
+284,991,Bishwock,1500,dp,greedy,,cooler_killer,PRACTICE,OK
+285,1141,Colored Boots,1500,greedy,implementation,,cooler_killer,PRACTICE,OK
+286,976,Nested Segments,1500,greedy,implementation,,cooler_killer,PRACTICE,OK
+287,1180,Nick and Array,1500,greedy,implementation,,cooler_killer,PRACTICE,OK
+288,1215,Swap Letters,1500,constructive algorithms,greedy,,cooler_killer,PRACTICE,OK
+289,1207,Gas Pipeline,1500,dp,greedy,,cooler_killer,PRACTICE,OK
+290,1242,Tile Painting,1500,constructive algorithms,math,,cooler_killer,PRACTICE,OK
+291,1430,String Deletion,1700,binary search,data structures,,cooler_killer,PRACTICE,OK
+292,1217,Zmei Gorynich,1600,greedy,math,,cooler_killer,PRACTICE,OK
+293,1427,Chess Cheater,1400,greedy,implementation,,cooler_killer,PRACTICE,OK
+294,1218,Workout plan,1500,data structures,greedy,,cooler_killer,PRACTICE,OK
+295,1081,Colorful Bricks,1500,combinatorics,dp,,cooler_killer,PRACTICE,OK
+296,1227,Optimal Subsequences (Easy Version),1600,data structures,greedy,,cooler_killer,PRACTICE,OK
+297,1234,Distinct Characters Queries,1600,data structures,,,cooler_killer,PRACTICE,OK
+298,1342,Yet Another Counting Problem,1600,math,number theory,,cooler_killer,PRACTICE,OK
+299,1321,Remove Adjacent,1600,brute force,constructive algorithms,,cooler_killer,PRACTICE,OK
+300,1251,Minimize The Integer,1600,greedy,two pointers,,cooler_killer,PRACTICE,OK
+301,1249,Good Numbers (easy version),1300,brute force,greedy,,cooler_killer,PRACTICE,OK
+302,1249,Good Numbers (hard version),1500,binary search,greedy,,cooler_killer,PRACTICE,OK
+303,1287,Hyperset,1500,brute force,data structures,,cooler_killer,PRACTICE,OK
+304,1341,Nastya and Strange Generator,1500,greedy,implementation,,cooler_killer,PRACTICE,OK
+305,1337,Linova and Kingdom,1600,dfs and similar,dp,,cooler_killer,PRACTICE,OK
+306,1348,Phoenix and Distribution,1600,constructive algorithms,greedy,,cooler_killer,PRACTICE,OK
+307,1281,Azamon Web Services,1600,greedy,,,cooler_killer,PRACTICE,OK
+308,576,Vasya and Petya's Game,1500,math,number theory,,cooler_killer,PRACTICE,OK
+309,328,Sheldon and Ice Pieces,1500,greedy,,,cooler_killer,PRACTICE,OK
+310,1327,Game with Chips,1600,constructive algorithms,implementation,,cooler_killer,PRACTICE,OK
+311,1422,Nice Matrix,1300,greedy,implementation,,cooler_killer,CONTESTANT,OK
